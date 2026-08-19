@@ -3,7 +3,7 @@
 This repository contains artifacts for the paper titled "Setting up TLS authentication was hell": A Usability Study of Client Certificate Authentication.
 
 
-* **[mtls_codebook.pdf](mtls_codebook.pdf)** – Qualitative codebook
+* **[codebook-mTLS.pdf](codebook-mTLS.pdf)** – Qualitative codebook
   
 ---
 
